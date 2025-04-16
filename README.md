@@ -1,1 +1,1 @@
-# Lab 2 - Starter
+https://royhlee.github.io/cse110lab2/index.html
