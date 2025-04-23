@@ -24,7 +24,7 @@ nav {
 }
 
 footer {
-    background-color: color-mix(in srgb, orange 70%, white 30%);
+    background-color: color-mix(in srgb, plum 70%, white 30%);
     text-align: center;
     padding: 1rem;
 }
