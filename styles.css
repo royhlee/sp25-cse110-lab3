@@ -157,7 +157,7 @@ section > p {
     font-style: italic;
 }
 
-section ~ aside {
+.meetingmembers ~ .memberslist {
     background-color: #eee;
 }
 
