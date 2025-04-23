@@ -29,7 +29,7 @@
 
 | Name     | Issues & Blocks                            |
 |----------|--------------------------------------------|
-| Name 1   | None                                       |
+| Name 1   | Block                                      |
 | Name 2   | Issue                                      |
 
 ---
